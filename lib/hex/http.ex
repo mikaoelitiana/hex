@@ -1,5 +1,5 @@
 defmodule Hex.HTTP do
-  @request_timeout 15_000
+  @request_timeout 90_000
   @request_redirects 3
   @request_retries 2
 
